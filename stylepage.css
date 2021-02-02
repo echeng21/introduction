@@ -1,0 +1,121 @@
+body
+{
+    background-color: blue;
+
+}
+h1
+{
+    text-align: center;
+    
+}
+h2
+{
+    text-align: center;
+    color: white;
+    
+}
+div.hello
+{
+    background-color: red;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid violet;
+    border-top: 5px solid violet;
+}
+p#name
+{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.5em;
+}
+div.sports
+{
+    background-color: orange;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid pink;
+    border-top: 5px solid pink;
+}
+p#baseball
+{
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.5em;
+}
+img
+{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    border-radius: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+div.chess
+{
+    background-image:url(chess.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid silver;
+    border-top: 5px solid silver;
+}
+p#game
+{
+    margin: 0.5em;
+    color: orange;
+    font-weight: bold;
+}
+div.pingpong
+{
+    background-color: purple;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid green;
+    border-top: 5px solid green;
+}
+p#tennis
+{
+    color: yellow;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.5em;
+}
+div.anime
+{
+    background-color: green;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid red;
+    border-top: 5px solid red;
+}
+p#pokemon
+{
+    color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.5em;
+    
+}
+#footer
+{
+    text-align: center;
+    font-weight: bold;
+    color: gold;
+    font-style: oblique;
+}
